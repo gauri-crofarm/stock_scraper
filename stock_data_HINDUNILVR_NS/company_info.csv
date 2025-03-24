@@ -1,0 +1,161 @@
+,Value
+address1,Unilever House
+address2,B. D. Sawant Marg Chakala Andheri (East)
+city,Mumbai
+zip,400099
+country,India
+phone,91 22 5043 3000
+fax,91 22 2824 9457
+website,https://www.hul.co.in
+industry,Household & Personal Products
+industryKey,household-personal-products
+industryDisp,Household & Personal Products
+sector,Consumer Defensive
+sectorKey,consumer-defensive
+sectorDisp,Consumer Defensive
+longBusinessSummary,"Hindustan Unilever Limited, a fast-moving consumer good company, manufactures and sells food, home care, personal care, and refreshment products in India and internationally. The company operates through Home Care, Beauty & Personal Care, Foods & Refreshment, and Others segments. The Home Care segment engages in detergent bars and powders, detergent liquids, scourers, water business, purifiers business, etc. The Beauty & Personal Care segment provides oral, skin, and hair care products; and soaps, deodorants, talcum powder, color cosmetics, salon services, etc. The Foods & Refreshment segment provides culinary products, including tomato-based products, fruit-based products, soups, etc.; and tea, coffee, nutrition drinks, ice-cream, and frozen desserts. The Others segment engages in activities, such as export, consignment, etc. The company is also involved in the job work, real estate, and discharge trust businesses. The company was founded in 1888 and is headquartered in Mumbai, India."
+fullTimeEmployees,19427
+companyOfficers,"[{'maxAge': 1, 'name': 'Mr. Rohit  Jawa', 'title': 'MD, CEO & Whole-Time Director', 'fiscalYear': 2024, 'totalPay': 223900000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ritesh  Tiwari', 'age': 48, 'title': 'CFO, Executive Director of Finance & IT and Whole-Time Director', 'yearBorn': 1976, 'fiscalYear': 2024, 'totalPay': 85600000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shilpa  Kedia', 'title': 'Group Financial Controller & Head Investor Relations', 'fiscalYear': 2024, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Radhika  Shah', 'title': 'Company Secretary & Compliance Officer', 'fiscalYear': 2024, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Vivek  Mittal', 'title': 'Executive Director of Legal & Corporate Affairs', 'fiscalYear': 2024, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bittianda Ponnappa Biddappa', 'title': 'Chief People, Transformation and Sustainability Officer & Director', 'fiscalYear': 2024, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Priya  Nair', 'age': 51, 'title': 'President of  Beauty & Wellbeing', 'yearBorn': 1973, 'fiscalYear': 2024, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vipul  Mathur', 'age': 45, 'title': 'Head of Growth and Transformation for South Asia & Executive Director of Personal Care', 'yearBorn': 1979, 'fiscalYear': 2024, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yogesh  Kumar Mishra', 'title': 'Executive Director of Supply Chain', 'fiscalYear': 2024, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Madhusudhan  Rao', 'title': 'Executive Director of Beauty & Personal Care', 'fiscalYear': 2024, 'exercisedValue': 0, 'unexercisedValue': 0}]"
+auditRisk,3
+boardRisk,3
+compensationRisk,4
+shareHolderRightsRisk,8
+overallRisk,2
+governanceEpochDate,1740787200
+compensationAsOfEpochDate,1735603200
+irWebsite,http://www.hul.co.in/investorrelations/
+executiveTeam,[]
+maxAge,86400
+priceHint,2
+previousClose,2246.2
+open,2250.25
+dayLow,2241.0
+dayHigh,2266.0
+regularMarketPreviousClose,2246.2
+regularMarketOpen,2250.25
+regularMarketDayLow,2241.0
+regularMarketDayHigh,2266.0
+dividendRate,43.0
+dividendYield,1.91
+exDividendDate,1730851200
+payoutRatio,0.9403
+fiveYearAvgDividendYield,1.48
+beta,0.227
+trailingPE,49.240505
+volume,1454385
+regularMarketVolume,1454385
+averageVolume,1613354
+averageVolume10days,1330279
+averageDailyVolume10Day,1330279
+bid,0.0
+ask,0.0
+bidSize,0
+askSize,0
+marketCap,5304100585472
+fiftyTwoWeekLow,2136.0
+fiftyTwoWeekHigh,3035.0
+priceToSalesTrailing12Months,8.464756
+fiftyDayAverage,2297.831
+twoHundredDayAverage,2539.3337
+trailingAnnualDividendRate,43.0
+trailingAnnualDividendYield,0.019143444
+currency,INR
+tradeable,False
+enterpriseValue,5167305457664
+forwardPE,46.171444
+profitMargins,0.17145
+floatShares,873395653
+sharesOutstanding,2349590016
+heldPercentInsiders,0.62267
+heldPercentInstitutions,0.18485
+impliedSharesOutstanding,2350899968
+bookValue,216.156
+priceToBook,10.437832
+lastFiscalYearEnd,1711843200
+nextFiscalYearEnd,1743379200
+mostRecentQuarter,1735603200
+earningsQuarterlyGrowth,0.189
+netIncomeToCommon,107430002688
+trailingEps,45.82
+lastSplitFactor,10:1
+lastSplitDate,963187200
+enterpriseToRevenue,8.246
+enterpriseToEbitda,36.419
+52WeekChange,-0.004586637
+SandP52WeekChange,0.086116076
+lastDividendValue,10.0
+lastDividendDate,1730851200
+quoteType,EQUITY
+currentPrice,2256.2
+targetHighPrice,3225.0
+targetLowPrice,1924.0
+targetMeanPrice,2633.2104
+targetMedianPrice,2647.5
+recommendationMean,2.07895
+recommendationKey,buy
+numberOfAnalystOpinions,38
+totalCash,128999997440
+totalCashPerShare,54.903
+ebitda,141884997632
+totalDebt,16510000128
+totalRevenue,626610012160
+debtToEquity,3.238
+revenuePerShare,266.728
+grossProfits,322219999232
+earningsGrowth,0.189
+revenueGrowth,0.016
+grossMargins,0.51423
+ebitdaMargins,0.22643
+operatingMargins,0.21204
+financialCurrency,INR
+symbol,HINDUNILVR.NS
+language,en-US
+region,US
+typeDisp,Equity
+quoteSourceName,Delayed Quote
+triggerable,True
+customPriceAlertConfidence,HIGH
+marketState,POSTPOST
+corporateActions,[]
+regularMarketTime,1742810400
+regularMarketChangePercent,0.44519636
+regularMarketPrice,2256.2
+exchange,NSI
+messageBoardId,finmb_878395
+exchangeTimezoneName,Asia/Kolkata
+exchangeTimezoneShortName,IST
+gmtOffSetMilliseconds,19800000
+market,in_market
+esgPopulated,False
+shortName,HINDUSTAN UNILEVER LTD.
+longName,Hindustan Unilever Limited
+averageAnalystRating,2.1 - Buy
+cryptoTradeable,False
+hasPrePostMarketData,False
+firstTradeDateMilliseconds,820467900000
+regularMarketChange,10.0
+regularMarketDayRange,2241.0 - 2266.0
+fullExchangeName,NSE
+averageDailyVolume3Month,1613354
+fiftyTwoWeekLowChange,120.19995
+fiftyTwoWeekLowChangePercent,0.056273386
+fiftyTwoWeekRange,2136.0 - 3035.0
+fiftyTwoWeekHighChange,-778.80005
+fiftyTwoWeekHighChangePercent,-0.25660628
+fiftyTwoWeekChangePercent,-0.4586637
+earningsTimestamp,1737543540
+earningsTimestampStart,1745319540
+earningsTimestampEnd,1745668800
+earningsCallTimestampStart,1737549000
+earningsCallTimestampEnd,1737549000
+isEarningsDateEstimate,True
+epsTrailingTwelveMonths,45.82
+epsCurrentYear,44.38928
+priceEpsCurrentYear,50.827587
+fiftyDayAverageChange,-41.631104
+fiftyDayAverageChangePercent,-0.018117566
+twoHundredDayAverageChange,-283.1338
+twoHundredDayAverageChangePercent,-0.11149924
+sourceInterval,15
+exchangeDataDelayedBy,15
+trailingPegRatio,

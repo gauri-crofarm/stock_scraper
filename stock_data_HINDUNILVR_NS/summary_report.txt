@@ -1,0 +1,20 @@
+
+        Stock Data Scraping Summary Report
+        ===============================
+        Date: 2025-03-24 18:30:18
+        Company: HINDUNILVR
+        Ticker: HINDUNILVR.NS
+        Files Generated: 14
+
+        Data Collected:
+        - Company Information
+        - Historical Market Data
+        - Financial Statements (Annual & Quarterly)
+        - Major Shareholders
+        - Analyst Recommendations
+        - ESG Data (if available)
+        - News Articles
+        - Dividends and Splits
+
+        All data has been saved to the 'stock_data_HINDUNILVR_NS' directory.
+        

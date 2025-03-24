@@ -1,0 +1,37 @@
+,esgScores
+maxAge,86400
+totalEsg,13.08
+environmentScore,1.99
+socialScore,5.06
+governanceScore,6.04
+ratingYear,2023
+ratingMonth,9
+highestControversy,2.0
+peerCount,8
+esgPerformance,UNDER_PERF
+peerGroup,Software & Services
+relatedControversy,"['Employee Incidents', 'Society & Community Incidents', 'Business Ethics Incidents', 'Public Policy Incidents']"
+peerEsgScorePerformance,"{'min': 13.89, 'avg': 21.07125, 'max': 49.81}"
+peerGovernancePerformance,"{'min': 4.87, 'avg': 9.592499999999998, 'max': 34.36}"
+peerSocialPerformance,"{'min': 6.22, 'avg': 8.75125, 'max': 14.17}"
+peerEnvironmentPerformance,"{'min': 0.5, 'avg': 2.725, 'max': 4.84}"
+peerHighestControversyPerformance,"{'min': 1.0, 'avg': 2.0, 'max': 5.0}"
+percentile,6.86
+environmentPercentile,
+socialPercentile,
+governancePercentile,
+adult,False
+alcoholic,False
+animalTesting,False
+catholic,False
+controversialWeapons,False
+smallArms,False
+furLeather,False
+gambling,False
+gmo,False
+militaryContract,False
+nuclear,False
+pesticides,False
+palmOil,False
+coal,False
+tobacco,False

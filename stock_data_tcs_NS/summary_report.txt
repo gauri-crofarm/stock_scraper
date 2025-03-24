@@ -1,0 +1,20 @@
+
+        Stock Data Scraping Summary Report
+        ===============================
+        Date: 2025-03-24 18:23:16
+        Company: tcs
+        Ticker: tcs.NS
+        Files Generated: 15
+
+        Data Collected:
+        - Company Information
+        - Historical Market Data
+        - Financial Statements (Annual & Quarterly)
+        - Major Shareholders
+        - Analyst Recommendations
+        - ESG Data (if available)
+        - News Articles
+        - Dividends and Splits
+
+        All data has been saved to the 'stock_data_tcs_NS' directory.
+        

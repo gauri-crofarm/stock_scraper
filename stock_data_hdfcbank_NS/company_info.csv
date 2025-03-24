@@ -1,0 +1,154 @@
+,Value
+address1,HDFC Bank House
+address2,Shiv Sagar Estate Dr Annie Besant Road Worli
+city,Mumbai
+zip,400018
+country,India
+phone,91 22 6652 1000
+website,https://www.hdfcbank.com
+industry,Banks - Regional
+industryKey,banks-regional
+industryDisp,Banks - Regional
+sector,Financial Services
+sectorKey,financial-services
+sectorDisp,Financial Services
+longBusinessSummary,"HDFC Bank Limited engages in the provision of banking and financial services to individuals and businesses in India, Bahrain, Hong Kong, Singapore, and Dubai. The company operates in three segments: Treasury, Retail Banking, Wholesale Banking, and Other Banking Services. It accepts savings, salary, current, rural, public provident fund, pension, and demat accounts; fixed and recurring deposits; and safe deposit lockers, as well as offshore accounts and deposits, and overdrafts against fixed deposits. The company also provides personal, home, car, two-wheeler, business, doctor, educational, gold, consumer, and rural loans; loans against properties, securities, mutual funds, rental receivables, and assets; loans for professionals; government sponsored programs; and loans on credit card, as well as working capital and commercial/construction equipment finance, healthcare/medical equipment and commercial vehicle finance, dealer finance, and term loans. In addition, it offers credit, debit, prepaid, and forex cards; payment and collection, export, import, remittance, bank guarantee, letter of credit, trade, hedging, and merchant and cash management services; insurance and investment products. Further, the company provides short term finance, bill discounting, structured finance, export credit, loan repayment, and documents collection services; online and wholesale, mobile, and phone banking services; unified payment interface, immediate payment, national electronic funds transfer, and real time gross settlement services; and channel financing, vendor financing, reimbursement account, money market, derivatives, employee trusts, cash surplus corporates, tax payment, and bankers to rights/public issue services, as well as financial solutions for supply chain partners and agricultural customers. It operates branches and automated teller machines in various cities/towns. The company was incorporated in 1994 and is headquartered in Mumbai, India."
+fullTimeEmployees,213527
+companyOfficers,"[{'maxAge': 1, 'name': 'Mr. Sashidhar  Jagdishan', 'age': 59, 'title': 'MD, CEO & Director', 'yearBorn': 1965, 'fiscalYear': 2024, 'totalPay': 107714372, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bhavesh Chandulal Zaveri', 'age': 58, 'title': 'Group Head of Operations, ATM, Cash Management Product & Executive Director', 'yearBorn': 1966, 'fiscalYear': 2024, 'totalPay': 42348492, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kaizad Maneck Bharucha', 'age': 59, 'title': 'Deputy MD & Director', 'yearBorn': 1965, 'fiscalYear': 2024, 'totalPay': 111285459, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vedanthachari Srinivasa Rangan', 'age': 64, 'title': 'Executive Whole-Time Director', 'yearBorn': 1960, 'fiscalYear': 2024, 'totalPay': 44231714, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Srinivasan  Vaidyanathan', 'age': 60, 'title': 'Chief Financial Officer', 'yearBorn': 1964, 'fiscalYear': 2024, 'totalPay': 30179680, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rakesh K. Singh', 'age': 54, 'title': 'Group Head of Invst. Bank., Private Bank., Inter. Bank., Digi. Ecosystems & BaaS', 'yearBorn': 1970, 'fiscalYear': 2024, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ramesh  Lakshminarayanan', 'age': 53, 'title': 'Chief Information Officer & Group Head of IT', 'yearBorn': 1971, 'fiscalYear': 2024, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ajit Subhas Shetty', 'title': 'Investor Relations Officer', 'fiscalYear': 2024, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rakesh Kumar Rajput', 'age': 54, 'title': 'Chief Compliance Officer', 'yearBorn': 1970, 'fiscalYear': 2024, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sudhir Kumar Jha', 'age': 57, 'title': 'Head & Group General Counsel', 'yearBorn': 1967, 'fiscalYear': 2024, 'exercisedValue': 0, 'unexercisedValue': 0}]"
+compensationAsOfEpochDate,1735603200
+executiveTeam,[]
+maxAge,86400
+priceHint,2
+previousClose,1770.35
+open,1779.0
+dayLow,1773.65
+dayHigh,1804.4
+regularMarketPreviousClose,1770.35
+regularMarketOpen,1779.0
+regularMarketDayLow,1773.65
+regularMarketDayHigh,1804.4
+dividendRate,19.5
+dividendYield,1.1
+exDividendDate,1715299200
+payoutRatio,0.2182
+fiveYearAvgDividendYield,0.67
+beta,0.842
+trailingPE,20.134228
+forwardPE,18.67995
+volume,8696344
+regularMarketVolume,8696344
+averageVolume,10437293
+averageVolume10days,8640952
+averageDailyVolume10Day,8640952
+bid,0.0
+ask,0.0
+bidSize,0
+askSize,0
+marketCap,13773420101632
+fiftyTwoWeekLow,1421.25
+fiftyTwoWeekHigh,1880.0
+priceToSalesTrailing12Months,5.096374
+fiftyDayAverage,1694.936
+twoHundredDayAverage,1701.22
+trailingAnnualDividendRate,0.0
+trailingAnnualDividendYield,0.0
+currency,INR
+tradeable,False
+enterpriseValue,17908797276160
+profitMargins,0.25746
+floatShares,7612970965
+sharesOutstanding,7651899904
+heldPercentInsiders,0.01809
+heldPercentInstitutions,0.53736
+impliedSharesOutstanding,7651899904
+bookValue,657.296
+priceToBook,2.7384923
+lastFiscalYearEnd,1711843200
+nextFiscalYearEnd,1743379200
+mostRecentQuarter,1735603200
+earningsQuarterlyGrowth,0.023
+netIncomeToCommon,695797481472
+trailingEps,89.4
+forwardEps,96.36
+lastSplitFactor,2:1
+lastSplitDate,1568851200
+enterpriseToRevenue,6.627
+52WeekChange,0.22698128
+SandP52WeekChange,0.086116076
+lastDividendValue,19.5
+lastDividendDate,1715299200
+quoteType,EQUITY
+currentPrice,1800.0
+targetHighPrice,2550.0
+targetLowPrice,1627.0
+targetMeanPrice,1992.0731
+targetMedianPrice,1960.0
+recommendationMean,1.41463
+recommendationKey,strong_buy
+numberOfAnalystOpinions,41
+totalCash,2311434272768
+totalCashPerShare,302.534
+totalDebt,6534742409216
+totalRevenue,2702592180224
+revenuePerShare,354.978
+returnOnAssets,0.0178
+returnOnEquity,0.14903
+grossProfits,2702592180224
+earningsGrowth,0.015
+revenueGrowth,-0.087
+grossMargins,0.0
+ebitdaMargins,0.0
+operatingMargins,0.39093
+financialCurrency,INR
+symbol,HDFCBANK.NS
+language,en-US
+region,US
+typeDisp,Equity
+quoteSourceName,Delayed Quote
+triggerable,True
+customPriceAlertConfidence,HIGH
+shortName,HDFC BANK LTD
+longName,HDFC Bank Limited
+regularMarketChangePercent,1.6748116
+regularMarketPrice,1800.0
+marketState,POSTPOST
+cryptoTradeable,False
+corporateActions,[]
+regularMarketTime,1742810399
+exchange,NSI
+messageBoardId,finmb_101677
+exchangeTimezoneName,Asia/Kolkata
+exchangeTimezoneShortName,IST
+gmtOffSetMilliseconds,19800000
+market,in_market
+esgPopulated,False
+twoHundredDayAverageChangePercent,0.05806423
+sourceInterval,15
+exchangeDataDelayedBy,15
+averageAnalystRating,1.4 - Strong Buy
+hasPrePostMarketData,False
+firstTradeDateMilliseconds,820467900000
+regularMarketChange,29.650024
+regularMarketDayRange,1773.65 - 1804.4
+fullExchangeName,NSE
+averageDailyVolume3Month,10437293
+fiftyTwoWeekLowChange,378.75
+fiftyTwoWeekLowChangePercent,0.26649076
+fiftyTwoWeekRange,1421.25 - 1880.0
+fiftyTwoWeekHighChange,-80.0
+fiftyTwoWeekHighChangePercent,-0.04255319
+fiftyTwoWeekChangePercent,22.698128
+earningsTimestamp,1737543540
+earningsTimestampStart,1744973940
+earningsTimestampEnd,1745323200
+earningsCallTimestampStart,1737549000
+earningsCallTimestampEnd,1737549000
+isEarningsDateEstimate,True
+epsTrailingTwelveMonths,89.4
+epsForward,96.36
+epsCurrentYear,96.0
+priceEpsCurrentYear,18.75
+fiftyDayAverageChange,105.063965
+fiftyDayAverageChangePercent,0.06198698
+twoHundredDayAverageChange,98.78003
+trailingPegRatio,

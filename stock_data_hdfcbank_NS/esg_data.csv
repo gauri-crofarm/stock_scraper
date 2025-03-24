@@ -1,0 +1,37 @@
+,esgScores
+maxAge,86400
+totalEsg,30.61
+environmentScore,2.18
+socialScore,13.36
+governanceScore,15.07
+ratingYear,2023
+ratingMonth,9
+highestControversy,2.0
+peerCount,16
+esgPerformance,OUT_PERF
+peerGroup,Banks
+relatedControversy,"['Product & Service Incidents', 'Customer Incidents', 'Business Ethics Incidents']"
+peerEsgScorePerformance,"{'min': 16.14, 'avg': 26.053749999999997, 'max': 44.83}"
+peerGovernancePerformance,"{'min': 6.81, 'avg': 12.520714285714288, 'max': 19.69}"
+peerSocialPerformance,"{'min': 7.12, 'avg': 11.787142857142856, 'max': 22.64}"
+peerEnvironmentPerformance,"{'min': 0.5, 'avg': 1.8957142857142855, 'max': 2.63}"
+peerHighestControversyPerformance,"{'min': 1.0, 'avg': 2.375, 'max': 5.0}"
+percentile,71.16
+environmentPercentile,
+socialPercentile,
+governancePercentile,
+adult,False
+alcoholic,False
+animalTesting,False
+catholic,False
+controversialWeapons,False
+smallArms,False
+furLeather,False
+gambling,False
+gmo,False
+militaryContract,False
+nuclear,False
+pesticides,False
+palmOil,False
+coal,False
+tobacco,False
