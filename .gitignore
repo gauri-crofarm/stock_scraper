@@ -1,0 +1,6 @@
+# Ignore Streamlit cache and logs
+.streamlit/
+logs/
+*.log
+
+.venv/
